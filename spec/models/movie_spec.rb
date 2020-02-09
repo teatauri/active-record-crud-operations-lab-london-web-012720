@@ -3,7 +3,7 @@ describe 'Movie' do
       title: "The Sting",
       release_date: 1973,
       director: "George Roy Hill",
-      lead: "Paul Newman",
+      lead: "Paul Newman", 
       in_theaters: false
   }}
 
